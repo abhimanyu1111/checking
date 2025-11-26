@@ -1,2 +1,2 @@
 # Check
-This is checking of pushing from local to git.
+This is a check for "How to use cmd for git"
